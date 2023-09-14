@@ -1,7 +1,7 @@
 ### Hey ✨
-welcome to my github page!
+Welcome to my GitHub page!
 
-🔭 I am currently open for work!  
+🔭 I am currently working as a front-end developer at [BetweenBits Inc.](https://github.com/BetweenBits) 
 🌱 Currently learning: sharping React.js skills using FrontEnd Expert platform  
 💬 aiaru.mukhamedyarova@gmail.com  
 
