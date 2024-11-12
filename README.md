@@ -6,7 +6,9 @@ Welcome to my GitHub page!
 Open to new projects and positions! 
 
 🌐 https://anapimolodec.netlify.app/projects
+
 💬 aiaru.mukhamedyarova@gmail.com
+
 🖊️ https://dev.to/anapimolodec 
 
 
